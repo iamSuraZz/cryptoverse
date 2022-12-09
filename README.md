@@ -18,7 +18,7 @@ API's for the app is powered by https://www.rapidapi.com
 
 # Mobile view of Crypto-app 
 
-< img alt="Screenshot Crypto app" height"100" width = "100" src="https://user-images.githubusercontent.com/56751643/206733536-da7b5ae5-ef47-4605-ac7d-2986b7278a01.jpg">
+< img alt="Screenshot Crypto app" height ="100" width = "100" src="https://user-images.githubusercontent.com/56751643/206733536-da7b5ae5-ef47-4605-ac7d-2986b7278a01.jpg" >
 
 ![Screenshot](https://user-images.githubusercontent.com/56751643/206733536-da7b5ae5-ef47-4605-ac7d-2986b7278a01.jpg)
 
