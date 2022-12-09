@@ -1,5 +1,5 @@
 import React from "react";
-import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
+import { Routes, Route, Link } from "react-router-dom";
 import { Layout, Typography, Space } from "antd";
 import {
   Navbar,
@@ -23,7 +23,7 @@ const App = () => {
             <Routes>
               <Route exact path="/" element={<Homepage />} />
 
-              <Route exact path="/exchanges" element={<Homepage />} />
+              <Route exact path="/exchanges" element={<Exchanges />} />
 
               <Route
                 exact

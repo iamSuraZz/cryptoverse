@@ -3,12 +3,10 @@ import { Select, Typography, Row, Col, Avatar, Card } from "antd";
 import moment from "moment/moment";
 import { useGetCryptosQuery } from "../services/cryptoApi";
 import { useGetCryptoNewsQuery } from "../services/cryptoNewsApi";
+import DemoImage from "./imageNotFound/noimage.png";
 
 const { Text, Title } = Typography;
 const { Option } = Select;
-
-const demoImage =
-  "https://www.bing.com/th?id=OVFT.mpzuVZnv8dwIMRfQGPbOPC&pid=News";
 
 const News = ({ simplified }) => {
   const [newsCategory, setNewsCategory] = useState("Cryptocurrency");
@@ -53,7 +51,7 @@ const News = ({ simplified }) => {
                 </Title>
                 <img
                   style={{ maxWidth: "200px", maxHeight: "100px" }}
-                  src={news?.image?.thumbnail?.contentUrl || demoImage}
+                  src={news?.image?.thumbnail?.contentUrl || DemoImage}
                   alt="news"
                 />
               </div>
@@ -67,7 +65,7 @@ const News = ({ simplified }) => {
                   <Avatar
                     src={
                       news.provider[0]?.image?.thumbnail?.contentUrl ||
-                      demoImage
+                      DemoImage
                     }
                     alt=""
                   />
