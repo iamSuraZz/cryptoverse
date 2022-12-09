@@ -12,7 +12,7 @@ API's for the app is powered by https://www.rapidapi.com
 
 Mobile view of Crypto-app 
 
-![Screenshot_2022-12-09-20-12-16-280_com android chrome](https://user-images.githubusercontent.com/56751643/206733536-da7b5ae5-ef47-4605-ac7d-2986b7278a01.jpg width="100" height="100")
+![Screenshot_2022-12-09-20-12-16-280_com android chrome](https://user-images.githubusercontent.com/56751643/206733536-da7b5ae5-ef47-4605-ac7d-2986b7278a01.jpg)
 
 ![Screenshot_2022-12-09-20-13-17-213_com android chrome](https://user-images.githubusercontent.com/56751643/206733580-5139951b-0326-4855-a850-f368f2d4d98a.jpg)
 
